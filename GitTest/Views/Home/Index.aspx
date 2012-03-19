@@ -9,6 +9,7 @@
 <body>
     <div>
     Adding new files to project
+    Some text in main trunk
     </div>
 </body>
 </html>
