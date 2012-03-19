@@ -10,6 +10,7 @@
     <div>
     Adding new files to project
     Some text in main trunk
+    Modifying some file in new branch
     </div>
 </body>
 </html>
